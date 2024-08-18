@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deLangat
 - 👀 I’m interested in android development.
-- 🌱 I’m currently learning XML, Kotlin and Android studio.
+- 🌱 I’m currently learning Python, XML, Kotlin and Android studio.
 - 💞️ I’m looking to collaborate on android app development.
 - 📫 langatkipkoech@gmail.com
 
